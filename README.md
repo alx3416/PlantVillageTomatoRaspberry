@@ -1,4 +1,4 @@
-# PlantVillageTomatoRaspberry
+# CNN Models for tomato leaves disease detection implemented on Raspberry Pi 4 
 Training results with transfer learning for three deep learning models, using the PlantVillage dataset with its ten tomato classes. Also, a GUI is included for testing purposes
 
 Tested on Raspberry Pi 4, Raspbian Buster
